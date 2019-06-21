@@ -1,1 +1,1 @@
-[bithoo@foxmail.com](to:bithoo@foxmail.com "联系我")
+[bithoo@foxmail.com](mailto:bithoo@foxmail.com "购买此域名")
